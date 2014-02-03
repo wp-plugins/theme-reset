@@ -1,5 +1,5 @@
 === Theme Reset ===
-Contributors: Chris Taylor
+Contributors: mrwiblog
 Donate link: http://www.stillbreathing.co.uk/donate
 Tags: reset, theme, multisite
 License: GPLv3

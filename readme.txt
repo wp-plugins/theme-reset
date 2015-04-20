@@ -5,7 +5,7 @@ Tags: reset, theme, multisite
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.5
-Tested up to: 3.5
+Tested up to: 4.2
 Stable tag: 0.1
 
 Resets the theme for all sites in a MultiSite network.
